@@ -1,0 +1,5 @@
+[14-Dec-2020 15:34:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adatecme/public_html/proyectos/portella/model/conexion.php on line 23
+[16-Dec-2020 16:44:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adatecme/public_html/proyectos/portella/model/conexion.php on line 23
+[16-Dec-2020 16:45:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adatecme/public_html/proyectos/portella/model/conexion.php on line 23
+[16-Dec-2020 16:46:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'adatecme_portelladb'@'localhost' (using password: YES) in /home/adatecme/public_html/proyectos/portella/model/conexion.php on line 23
+[16-Dec-2020 16:46:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'adatecme_portelladb'@'localhost' (using password: YES) in /home/adatecme/public_html/proyectos/portella/model/conexion.php on line 23

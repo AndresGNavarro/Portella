@@ -1,0 +1,3 @@
+[16-Dec-2020 13:29:01 America/Monterrey] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adatecme/public_html/proyectos/portella/view/pc/parametrosmenu.php on line 50
+[16-Dec-2020 13:29:05 America/Monterrey] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adatecme/public_html/proyectos/portella/view/pc/parametrosmenu.php on line 50
+[16-Dec-2020 13:29:11 America/Monterrey] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adatecme/public_html/proyectos/portella/view/pc/parametrosmenu.php on line 50
